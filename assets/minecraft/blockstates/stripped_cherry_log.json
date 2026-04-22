@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "minecraft:block/ghost_hidden"
+    },
+    "axis=z": {
+      "model": "minecraft:block/ghost_hidden",
+      "x": 90
+    },
+    "axis=x": {
+      "model": "minecraft:block/ghost_hidden",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

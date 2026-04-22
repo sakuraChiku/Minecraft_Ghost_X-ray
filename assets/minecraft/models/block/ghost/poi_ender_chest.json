@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/ghost_visible_all",
+  "textures": {
+    "all": "minecraft:block/obsidian"
+  }
+}

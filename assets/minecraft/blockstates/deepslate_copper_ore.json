@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/ghost/ore_deepslate_copper_ore"
+    }
+  }
+}

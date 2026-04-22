@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/ghost/poi_chest"
+    }
+  }
+}

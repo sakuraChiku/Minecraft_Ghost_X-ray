@@ -1,0 +1,274 @@
+{
+  "parent": "minecraft:block/block",
+  "ambientocclusion": false,
+  "textures": {
+    "edge": "minecraft:block/ghost_edge",
+    "particle": "minecraft:block/ghost_edge"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        1,
+        16,
+        1
+      ],
+      "faces": {
+        "north": {
+          "texture": "#edge",
+          "cullface": "north"
+        },
+        "west": {
+          "texture": "#edge",
+          "cullface": "west"
+        }
+      }
+    },
+    {
+      "from": [
+        15,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        1
+      ],
+      "faces": {
+        "north": {
+          "texture": "#edge",
+          "cullface": "north"
+        },
+        "east": {
+          "texture": "#edge",
+          "cullface": "east"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        0,
+        15
+      ],
+      "to": [
+        1,
+        16,
+        16
+      ],
+      "faces": {
+        "south": {
+          "texture": "#edge",
+          "cullface": "south"
+        },
+        "west": {
+          "texture": "#edge",
+          "cullface": "west"
+        }
+      }
+    },
+    {
+      "from": [
+        15,
+        0,
+        15
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "south": {
+          "texture": "#edge",
+          "cullface": "south"
+        },
+        "east": {
+          "texture": "#edge",
+          "cullface": "east"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        15,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        1
+      ],
+      "faces": {
+        "up": {
+          "texture": "#edge",
+          "cullface": "up"
+        },
+        "north": {
+          "texture": "#edge",
+          "cullface": "north"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        15,
+        15
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "up": {
+          "texture": "#edge",
+          "cullface": "up"
+        },
+        "south": {
+          "texture": "#edge",
+          "cullface": "south"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        15,
+        0
+      ],
+      "to": [
+        1,
+        16,
+        16
+      ],
+      "faces": {
+        "up": {
+          "texture": "#edge",
+          "cullface": "up"
+        },
+        "west": {
+          "texture": "#edge",
+          "cullface": "west"
+        }
+      }
+    },
+    {
+      "from": [
+        15,
+        15,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "faces": {
+        "up": {
+          "texture": "#edge",
+          "cullface": "up"
+        },
+        "east": {
+          "texture": "#edge",
+          "cullface": "east"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        1,
+        1
+      ],
+      "faces": {
+        "down": {
+          "texture": "#edge",
+          "cullface": "down"
+        },
+        "north": {
+          "texture": "#edge",
+          "cullface": "north"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        0,
+        15
+      ],
+      "to": [
+        16,
+        1,
+        16
+      ],
+      "faces": {
+        "down": {
+          "texture": "#edge",
+          "cullface": "down"
+        },
+        "south": {
+          "texture": "#edge",
+          "cullface": "south"
+        }
+      }
+    },
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        1,
+        1,
+        16
+      ],
+      "faces": {
+        "down": {
+          "texture": "#edge",
+          "cullface": "down"
+        },
+        "west": {
+          "texture": "#edge",
+          "cullface": "west"
+        }
+      }
+    },
+    {
+      "from": [
+        15,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        1,
+        16
+      ],
+      "faces": {
+        "down": {
+          "texture": "#edge",
+          "cullface": "down"
+        },
+        "east": {
+          "texture": "#edge",
+          "cullface": "east"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "lit=false": {
+      "model": "minecraft:block/ghost/ore_redstone_ore"
+    },
+    "lit=true": {
+      "model": "minecraft:block/ghost/ore_redstone_ore"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "minecraft:block/ghost/gold_block_raw"
+    }
+  }
+}
