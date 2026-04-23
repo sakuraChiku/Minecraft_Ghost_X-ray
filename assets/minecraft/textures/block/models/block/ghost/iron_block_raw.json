@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:ghost/ghost_visible_all",
+    "textures": {
+        "all": "minecraft:block/raw_iron_block"
+    }
+}
