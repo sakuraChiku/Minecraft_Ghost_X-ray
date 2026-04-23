@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/ghost_visible_all",
     "textures": {
-        "particle": "minecraft:block/red_air" 
+        "particle": "minecraft:particle/red_air" 
     }
 }

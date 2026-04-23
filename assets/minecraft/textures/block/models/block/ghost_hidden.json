@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/block",
-  "ambientocclusion": false,
-  "textures": {
-    "particle": "minecraft:block/ghost_edge"
-  },
-  "elements": []
-}

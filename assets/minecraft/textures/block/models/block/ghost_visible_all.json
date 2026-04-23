@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/ghost_visible",
-  "textures": {
-    "all": "#all"
-  }
-}

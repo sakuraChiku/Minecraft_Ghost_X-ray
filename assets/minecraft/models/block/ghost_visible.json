@@ -1,6 +1,7 @@
 {
   "ambientocclusion": false,
   "parent": "minecraft:block/block",
+  "render_type": "translucent",
   "elements": [
     {
       "from": [
